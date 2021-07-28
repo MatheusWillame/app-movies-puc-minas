@@ -1,2 +1,2 @@
 # app-movies-usp
-Created with CodeSandbox
+Projeto desenvolvido na pós-graduação de Arquitetura de Software - Puc Minas
